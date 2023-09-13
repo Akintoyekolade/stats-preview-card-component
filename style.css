@@ -194,6 +194,7 @@ footer {
     font-size: 14px;
     display: flex;
     justify-content: center;
+    align-items: cent;
     margin-bottom: 32px;
     padding: 0px 16px;
 }
@@ -208,6 +209,7 @@ a:hover {
 }
 
 footer .div-line {
-    padding: 0px 8px;
+    padding: 0px 8px;  
+    line-height: 22px;     
 }
 
